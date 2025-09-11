@@ -1,7 +1,7 @@
 # Maven_Movies_Rental_Analysis
 ![Project Banner](banner.jpg)
 
-##📌 Project Overview
+## 📌 Project Overview
 
 This project centers on analyzing the MAVENMOVIES database to uncover actionable insights that can drive better decision-making in marketing, customer engagement, and inventory control. SQL is the primary tool used to perform exploratory data analysis (EDA), study the database schema, and solve key business problems.
 
@@ -9,13 +9,13 @@ This project centers on analyzing the MAVENMOVIES database to uncover actionable
 ---
 
 
-##🎯 Project Objectives
+## 🎯 Project Objectives
 
-###🛒 Customer Insights
+### 🛒 Customer Insights
 
--📌 Retrieve customer information (names, emails) to support personalized marketing initiatives.
+- 📌 Retrieve customer information (names, emails) to support personalized marketing initiatives.
 
--📊 Study rental patterns to boost customer retention and satisfaction.
+- 📊 Study rental patterns to boost customer retention and satisfaction.
 
 🎮 Movie Collection Optimization
 
