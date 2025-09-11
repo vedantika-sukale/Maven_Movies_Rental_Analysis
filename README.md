@@ -17,40 +17,44 @@ This project centers on analyzing the MAVENMOVIES database to uncover actionable
 
 - 📊 Study rental patterns to boost customer retention and satisfaction.
 
-🎮 Movie Collection Optimization
+### 🎮 Movie Collection Optimization
 
-🛆 Assess rental stock and classify movies by rental prices and availability.
+- 🛆 Assess rental stock and classify movies by rental prices and availability.
 
-🔍 Recommend new movie acquisitions based on demand, popularity, and rental frequency.
+- 🔍 Recommend new movie acquisitions based on demand, popularity, and rental frequency.
 
-💰 Revenue Growth
+### 💰 Revenue Growth
 
-📈 Investigate pricing models and rental trends to identify high-margin opportunities.
+- 📈 Investigate pricing models and rental trends to identify high-margin opportunities.
 
-🎥 Pinpoint top-performing categories and ratings to increase profitability.
+- 🎥 Pinpoint top-performing categories and ratings to increase profitability.
 
-⚙️ Operational Improvements
+### ⚙️ Operational Improvements
 
-📌 Monitor inventory status to ensure efficient stock management.
+- 📌 Monitor inventory status to ensure efficient stock management.
 
-📉 Detect gaps in movie availability and optimize restocking strategies.
+- 📉 Detect gaps in movie availability and optimize restocking strategies.
 
-🛠️ Tools & Technologies
+ --
 
-SQL – For querying, transforming, and analyzing data
+ 
+## 🛠️ Tools & Technologies
 
-MAVENMOVIES Database – Source of rental and customer data
+- *SQL* – For querying, transforming, and analyzing data
 
-📊 Key Outcomes & Insights
+- *MAVENMOVIES Database* – Source of rental and customer data
 
-📢 Smarter marketing campaigns through customer segmentation and behavior analysis.
+## 📊 Key Outcomes & Insights
 
-🎬 Stronger inventory management with demand-driven stocking.
+- 📢 Smarter marketing campaigns through customer segmentation and behavior analysis.
+- 🎬 Stronger inventory management with demand-driven stocking.
+- 💵 Higher revenue streams from optimized pricing and trending rentals.
+- 📌 Better operational flow with structured tracking of movie assets.
 
-💵 Higher revenue streams from optimized pricing and trending rentals.
+---
 
-📌 Better operational flow with structured tracking of movie assets.
+# Movies Rental Data Queries
 
-🎥 Movies Rental Data Analysis
+This repository contains SQL queries and corresponding visualizations for analyzing the Movies Rental dataset.
 
-This repository includes SQL scripts and visualizations that explore and analyze the movie rental dataset to derive meaningful insights.
+## Queries and Visualizations
