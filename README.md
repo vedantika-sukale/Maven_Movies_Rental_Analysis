@@ -74,4 +74,4 @@ Retrieve customer first name, last name, and email ID.
 ### 3.Show rental rate and number of movies in each category.
 
 
-![Customer Info](CODE_OUTPUT/Q2.png)
+![Customer Info](CODE_OUTPUT/Q3.png)
