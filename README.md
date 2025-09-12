@@ -64,3 +64,14 @@ Retrieve customer first name, last name, and email ID.
 
 
 ![Customer Info](CODE_OUTPUT/Q1.png)
+
+
+### 2.Count movies with a rental rate of $0.99.
+
+![Customer Info](CODE_OUTPUT/Q2.png)
+
+
+### 3.Show rental rate and number of movies in each category.
+
+
+![Customer Info](CODE_OUTPUT/Q2.png)
