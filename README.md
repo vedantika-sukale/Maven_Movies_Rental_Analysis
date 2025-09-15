@@ -1,5 +1,5 @@
 # Maven_Movies_Rental_Analysis
-![Project Banner](banner.jpg)
+![Project Banner](banner.jpg)(1000*1000)
 
 ## 📌 Project Overview
 
