@@ -1,6 +1,6 @@
 # Maven_Movies_Rental_Analysis
 
-<img src="./banner.jpg" width="1000" height="800"/>&nbsp;
+<img src="./banner.jpg" width="1000" height="700"/>&nbsp;
 ## 📌 Project Overview
 
 This project centers on analyzing the MAVENMOVIES database to uncover actionable insights that can drive better decision-making in marketing, customer engagement, and inventory control. SQL is the primary tool used to perform exploratory data analysis (EDA), study the database schema, and solve key business problems.
